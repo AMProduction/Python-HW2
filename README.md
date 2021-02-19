@@ -28,7 +28,7 @@ Create function **Fibonacci** for a positive integer **n**, calculate the **resu
 Note. Fibonacci numbers are a series of numbers in which each next number is equal to the sum of the two preceding ones: 0, 1, 1, 2, 3, 5, 8, 13... (F0=0,
 F1=F2=1, then F(n)=F(n-1)+F(n-2) for n>2)  
 Example,  
-n=8 result=33  
-n = 11 result = 143
+*n=8 result=33  
+n = 11 result = 143*
 ### **Task 6**
 Create function **IsSorted**, determining whether a given **array** of integer values of arbitrary length is sorted in a given **order** (the order is set up by enum value **SortOrder**). Array and sort order are passed by parameters. Function does not change the array.
